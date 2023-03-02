@@ -1,9 +1,7 @@
-
-Submission by: Jophy Joseph        Aug 07, 2022
-
-Week 5-8 Assign. Part-I  
-
 Objective:- Analysing IoT Data with Spark Sql. 
+
+The data from various IoT devices are available. Using Spark SQL, various queries related to this data are executed. 
+Example: Display all the countries whose carbon dioxide level is more than 1400. Sort the output in descending order
 
 Steps done
 1.) Google Colab was used. 
